@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+
+        {% include header.html %}
+
+        <div id="wrapper">
+            {% include banner.html %}
+
+            <!--Main Content Area-->
+            <main id="content">
+
+                {{ content }}
+
+            </main>
+            <!--End Main Content Area-->
+
+            {% include footer.html %}
+        </div>
+
+        {% include js.html %}
+    </body>
+</html>
