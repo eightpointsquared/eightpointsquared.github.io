@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            EIGHT POINT SQUARED
+tagline:          'Understanding problems, one system at a time'
+description:      'Understanding problems, one system at a time'
+url:              https://eightpointsquared.github.io/
+baseurl:          https://eightpointsquared.github.io/
+
+author:
+  name:           'Gien Verschatse'
+  url:            https://twitter.com/8pointsquared
+
+paginate:         5
+excerpt_separator: <!--more-->
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/eightpointsquared/eightpointsquared.github.io
