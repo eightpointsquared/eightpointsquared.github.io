@@ -2157,6 +2157,10 @@ blockquote {
         margin-top: 0;
     }
 
+    #banner {
+        background:none;
+    }
+
     #banner-content.row {
         padding-top: 85px !important;
     }
