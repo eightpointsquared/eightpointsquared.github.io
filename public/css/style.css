@@ -2158,7 +2158,7 @@ blockquote {
     }
 
     #banner {
-        background:url("../images/banner-images/logo-small.png") no-repeat center top;
+        background:none !important;
     }
 
     #banner-content.row {
